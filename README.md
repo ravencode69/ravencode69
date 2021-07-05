@@ -1,4 +1,4 @@
-- 👋 Ayo Sup geek ? Welcome to my profile !
+- 👋 Sup geek ? Welcome to my profile !
 - 
 I'm Richa Gupta, aspiring software engineer and a 3rd year IT undergrad at KIIT
 
