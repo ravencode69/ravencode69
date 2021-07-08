@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks ✌, I'm Richa Gupta</h1>
+<h1 align="center">Hi folks <IMG SRC="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif"> , I'm Richa Gupta</h1>
 <h3 align="center">an Aspiring Software Engineer and a 3rd year undergrad at KIIT, Bhubaneshwar</h3>
 
 - 🌱 I’m currently learning **Solidity**
