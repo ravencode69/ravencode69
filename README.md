@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/r1chagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1chagupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravencode69" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.ieeemuj.com%2F2017%2F09%2Fmonthly-coding-competition-series.html&psig=AOvVaw20qrx3vrsp27Vca0NU9ppL&ust=1625813126769000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLD5gYPw0vECFQAAAAAdAAAAABAJ" alt="ravencode69" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ravencode69" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1410876289834119177/hoZI2cqF_400x400.jpg" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravencode69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ravencode69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ravencode69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ravencode69" height="30" width="40" /></a>
