@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/r1chagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1chagupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ravencode69" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1410876289834119177/hoZI2cqF_400x400.jpg" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravencode69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ravencode69" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ravencode69" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062020/codeforces_logo.png?25Whc0FssKcoh3UpkDc30_e5cJvgkTYZ&itok=Ct4aMOVC" alt="ravencode69" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ravencode69" target="blank"><img align="center" src="https://apprecs.org/gp/images/app-icons/300/0b/com.SoftTechs.CodeForces.jpg" alt="ravencode69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
