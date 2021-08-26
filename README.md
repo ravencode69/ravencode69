@@ -4,14 +4,6 @@
 
 My name is Richa Gupta and I'm a an aspiring software developer/Android engineer. I'm from New Delhi. I'm pursuing my B.E in Information technology from Kalinga institute of industrial technology. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Connect with me on 
-
-<p align="left">
-<a href="https://linkedin.com/in/r1chagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1chagupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravencode69" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1410876289834119177/hoZI2cqF_400x400.jpg" alt="ravencode69" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ravencode69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ravencode69" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ravencode69" target="blank"><img align="center" src="https://apprecs.org/gp/images/app-icons/300/0b/com.SoftTechs.CodeForces.jpg" alt="ravencode69" height="30" width="40" /></a>
-</p>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -26,6 +18,15 @@ My name is Richa Gupta and I'm a an aspiring software developer/Android engineer
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+## &#x270d; Connect with me on 
+
+<p align="left">
+<a href="https://linkedin.com/in/r1chagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1chagupta" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ravencode69" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1410876289834119177/hoZI2cqF_400x400.jpg" alt="ravencode69" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ravencode69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ravencode69" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ravencode69" target="blank"><img align="center" src="https://apprecs.org/gp/images/app-icons/300/0b/com.SoftTechs.CodeForces.jpg" alt="ravencode69" height="30" width="40" /></a>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
