@@ -27,7 +27,7 @@ My name is Richa Gupta and I'm a an aspiring software developer/Android engineer
 ![](https://img.shields.io/badge/Tools-NumPY-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=herokuapp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 
 
