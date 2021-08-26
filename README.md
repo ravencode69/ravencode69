@@ -1,10 +1,9 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](https://drive.google.com/file/d/14MI6nbcknvrNbMeCLOybeIQFvctcieYb/view?usp=sharing "Header")](https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello and welcome! <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Richa Gupta and I'm a an aspiring software developer/Android engineer. I'm from New Delhi. I'm pursuing my B.E in Information technology from Kalinga institute of industrial technology. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
