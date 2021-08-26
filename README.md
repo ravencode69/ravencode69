@@ -46,11 +46,12 @@ My name is Richa Gupta and I'm a an aspiring software developer/Android engineer
 <a href="https://github.com/ravencode69/ravencode69">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravencode69&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/ravencode69/ravencode69">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravencode69&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Richa's GitHub Stats" />
-</a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravencode69&theme=highcontrast" alt="ravencode69"/>
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravencode69_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=ravencode69&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
