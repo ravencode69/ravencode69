@@ -1,6 +1,6 @@
 <img src="https://github.com/ravencode69/ravencode69/blob/main/Readme.png">
 
-# Hello and welcome! <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="30px">
+# Hello, folks! <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="30px">
 
 My name is Richa Gupta and I'm a an aspiring software developer/Android engineer. I'm from New Delhi. I'm pursuing my B.E in Information technology from Kalinga institute of industrial technology. 
 
