@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="30px">
 
-My name is Richa Gupta and I'm a an aspiring Software engineer/Android engineer. I'm from New Delhi. I'm pursuing my B.E in Information technology from Kalinga institute of industrial technology. 
+My name is Richa Gupta and I'm a an aspiring Software engineer/DevOps engineer. I'm from New Delhi. I'm currently pursuing my B.E in Information technology from Kalinga institute of industrial technology. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
