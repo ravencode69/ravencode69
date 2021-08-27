@@ -7,7 +7,9 @@ My name is Richa Gupta and I'm a an aspiring Software engineer/DevOps engineer. 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Androidstudio-informational?style=flat&logo=androidstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
