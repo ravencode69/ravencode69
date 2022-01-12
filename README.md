@@ -46,7 +46,7 @@ My name is Richa Gupta and I'm a an aspiring Software engineer/DevOps engineer. 
 
 ## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravencode69&show_icons=true&locale=en&layout=compact" alt="ravencode69" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravencode69&show_icons=true&locale=en&layout=compact" alt="ravencode69"  width="400" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravencode69&" alt="ravencode69"  width="400"/></p>
   
