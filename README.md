@@ -48,8 +48,8 @@ My name is Richa Gupta and I'm a an aspiring Software engineer/DevOps engineer. 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravencode69&show_icons=true&locale=en&layout=compact" alt="ravencode69" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ravencode69)  
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravencode69&" alt="ravencode69" height="30" width="40"/></p>
+  
   
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
