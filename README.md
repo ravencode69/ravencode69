@@ -39,7 +39,7 @@ My name is Richa Gupta and I'm a an aspiring Software engineer/DevOps engineer. 
 
 <p align="left">
 <a href="https://linkedin.com/in/r1chagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1chagupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravencode69" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="ravencode69" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ravencod" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravencode69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile" target="blank"><img align="center" src="https://apprecs.org/gp/images/app-icons/300/0b/com.SoftTechs.CodeForces.jpg" alt="ravencode69" height="30" width="40" /></a>
 </p>
