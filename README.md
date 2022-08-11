@@ -42,6 +42,7 @@ My name is Richa Gupta and I'm a an aspiring Software engineer/DevOps engineer. 
 <a href="https://www.codechef.com/users/ravenc0de69" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravencode69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ravencode69" height="30" width="40" /></a>
 <a href="https://leetcode.com/ravencode69/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/33/LeetCode_Logo_3.png" alt="ravencode69" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/85f965ac-d195-438e-aa29-c7ddaa5510f2" target="blank"><img align="center" src="https://media.giphy.com/avatars/CodingNinjasIndia/PPkmhypxhU8C.jpg" alt="ravencode69" height="30" width="40" /></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
