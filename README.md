@@ -1,8 +1,8 @@
 <img src="https://github.com/ravencode69/ravencode69/blob/main/Readme.png">
 
-# Hello, folks! <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="30px" height="30px">
+#Hello, folks! <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="30px" height="30px">
 
-My name is Richa Gupta and I'm a Full Stack Software engineer. Proficient in C++, .NET, Angular, Azure, MongoDB etc. Equipped with B.E in Information technology from Kalinga institute of industrial technology. 
+My name is Richa Gupta and I'm a Full Stack Software engineer. Proficient in C++, .NET, Angular, Azure, MongoDB etc. Equipped with a B.E in Information Technology from Kalinga Institute of Industrial Technology. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
