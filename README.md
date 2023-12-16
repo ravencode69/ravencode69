@@ -5,7 +5,7 @@ Hello, folks! <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8
 
 My name is Richa Gupta and I'm a Full Stack Software engineer. Proficient in C++, .NET, Angular, Azure, MongoDB etc. Equipped with a B.E in Information Technology from Kalinga Institute of Industrial Technology. 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
@@ -26,7 +26,7 @@ My name is Richa Gupta and I'm a Full Stack Software engineer. Proficient in C++
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 
-## 📞 Connect with me on 
+## Connect with me on 
 
 <p align="left">
 <a href="https://linkedin.com/in/r1chagupta" target="blank"><img align="center" src="https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-16.jpg" alt="r1chagupta" height="30" width="40" /></a>
@@ -36,12 +36,13 @@ My name is Richa Gupta and I'm a Full Stack Software engineer. Proficient in C++
 <a href="https://www.codingninjas.com/codestudio/profile/85f965ac-d195-438e-aa29-c7ddaa5510f2" target="blank"><img align="center" src="https://media.giphy.com/avatars/CodingNinjasIndia/PPkmhypxhU8C.jpg" alt="ravencode69" height="30" width="40" /></a>
 </p>
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravencode69&show_icons=true&locale=en&layout=compact" alt="ravencode69"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravencode69&" alt="ravencode69"  width="400"/></p>
-  
+ --> 
   
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
