@@ -37,7 +37,7 @@ My name is Richa and I'm a Full Stack Software engineer. Proficient in C++, .NET
 </p>
 
 <!--
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stat
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravencode69&show_icons=true&locale=en&layout=compact" alt="ravencode69"  /></p>
 
